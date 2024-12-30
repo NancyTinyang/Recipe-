@@ -1,0 +1,17 @@
+body {background: steelblue;
+font-family: sans-serif;
+color: black;
+font-size: 20px; 
+}
+.head{
+  position: sticky;
+  color: darkgoldenrod;
+}
+  button{
+    padding: 10px;
+    border-radius: 10px; 
+  }
+  
+  
+  
+
